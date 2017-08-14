@@ -21,6 +21,8 @@ Follow the steps specified to run the game :
 2. Now, after opening the Web Browser, go to your particular game folder and open the `index.html` file present in it.
 3. By opening this `index.html` file, you'll be able to see your game.
 
+> If you want to run the game on your browser, then please go to the link : (https://anujpanchal57.github.io/Frogger-Game/)
+
 ## List of Resources
 [W3 Schools](https://www.w3schools.com/js/js_object_prototypes.asp)
 
